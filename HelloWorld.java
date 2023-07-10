@@ -3,6 +3,6 @@ public class HelloWorld {
         System.out.println("Hello Git and Maya!");
         System.out.println("Hello QA Manual!");
         // one more change
-
+        // one more change via GitHub
     }    
 }
